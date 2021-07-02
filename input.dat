@@ -1,0 +1,7 @@
+start;
+insert EMPTY(0, 0);
+insert EMPTY(1, 1);
+insert A0(0, 1);
+insert B0(1, 0);
+commit;
+timestamp;
